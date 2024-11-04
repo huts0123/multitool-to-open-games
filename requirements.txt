@@ -1,0 +1,6 @@
+PIL
+ctypes
+json
+os
+subprocess
+tkinter
